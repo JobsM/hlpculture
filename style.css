@@ -1,3 +1,4 @@
+
 * {
     margin: 0;
     padding: 0;
@@ -69,4 +70,5 @@ a:hover {
     margin-top: 20px;
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(58, 58, 58, 0.603);
+    transition: all 0.7s ease;
 }
